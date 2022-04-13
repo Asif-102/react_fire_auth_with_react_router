@@ -1,0 +1,15 @@
+1. React router
+    route
+    private route/ require auth
+    outlet
+
+2. firebase
+    react-firebase hook
+
+3. react custom hook
+
+requirements
+ 1.bootsrap (done)
+ 2. react firebase hook (done)
+ 3. firebase (done)
+ 4. react router (done)
